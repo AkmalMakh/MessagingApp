@@ -1,0 +1,6 @@
+module Pods_messageApp_messageAppTests {
+  umbrella header "Pods-messageApp-messageAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
